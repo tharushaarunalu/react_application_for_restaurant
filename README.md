@@ -1,2 +1,2 @@
-# nodejsproject1
-my node js project 1
+# react_application_for_restaurant
+react_application_for_restaurant
